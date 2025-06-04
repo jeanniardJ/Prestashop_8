@@ -1,0 +1,35 @@
+# User-specific files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Composer
+composer.lock
+
+# Node
+/node_modules/
+/npm-debug.log
+/yarn.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# OLDs
+phpstan.neon
+phpstan.neon.dist
+INSTALL.txt
+*.sh
