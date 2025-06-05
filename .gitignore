@@ -32,4 +32,3 @@ composer.lock
 phpstan.neon
 phpstan.neon.dist
 INSTALL.txt
-*.sh
